@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/2kBjs5Z.jpg?1" width="100%">
+<img src="https://i.imgur.com/sUMJKMM.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Michael Olawunmi</h1>
 <h3 align="center">I'm a proud Software Engineer</h3>
