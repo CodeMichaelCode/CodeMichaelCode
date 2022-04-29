@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mrolawunmi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PhgNYepMQ-evl5wsy5Agjl5l-iYjR7ZID64-auY9l_U/edit?usp=sharing](https://docs.google.com/document/d/1PhgNYepMQ-evl5wsy5Agjl5l-iYjR7ZID64-auY9l_U/edit?usp=sharing)
-
 - ⚡ Fun fact **I used to be an EMT. I'll be more than happy to share some stories.**
 
 <h3 align="left">Connect with me:</h3>
